@@ -290,7 +290,11 @@ ls -la "${CODEX_HOME:-$HOME/.codex}/memories"
 
 ---
 
-## 8. 参考来源
+## 8. 相关文档
+
+- [Codex Session 恢复与 Rollout 文件机制调研](./codex-session-rollout-resume.md)：`thread.id`、rollout 命名、`resumeThread`、跨机导入、`workingDirectory`
+
+## 9. 参考来源
 
 - [Config and state locations / Advanced Configuration](https://developers.openai.com/codex/config-advanced)
 - [Environment variables](https://developers.openai.com/codex/environment-variables)
