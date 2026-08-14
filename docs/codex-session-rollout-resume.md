@@ -353,6 +353,7 @@ head -n1 .../rollout-...-<uuid>.jsonl
 ## 11. 与本仓库其他文档的关系
 
 - 总览 `$CODEX_HOME` 目录与记忆流水线：见 [codex-home.md](./codex-home.md)
+- App Server 协议与常驻进程：见 [codex-appserver.md](./codex-appserver.md)
 - 本文聚焦：**Session / Rollout / Resume** 路径，服务自建编排（DB 会话 ↔ Codex thread）集成
 
 ---
