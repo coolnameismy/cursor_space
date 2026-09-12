@@ -2,7 +2,7 @@
 
 ## 文档
 
-- [Codex `.codex` 目录：文件、作用与实现机制](docs/codex-home.md)
+- [Codex `CODEX_HOME` 机制调研](docs/codex-home.md)
 - [Codex Session 恢复与 Rollout 文件机制调研](docs/codex-session-rollout-resume.md)
 <<<<<<< HEAD
 - [AI Agent 周报索引](docs/agent-weekly/README.md)

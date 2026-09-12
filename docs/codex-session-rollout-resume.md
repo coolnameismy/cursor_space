@@ -352,7 +352,7 @@ head -n1 .../rollout-...-<uuid>.jsonl
 
 ## 11. 与本仓库其他文档的关系
 
-- 总览 `$CODEX_HOME` 目录与记忆流水线：见 [codex-home.md](./codex-home.md)
+- `$CODEX_HOME` 解析、用户级根与项目 `.codex/` 边界、隔离与演进：见 [codex-home.md](./codex-home.md)
 - 本文聚焦：**Session / Rollout / Resume** 路径，服务自建编排（DB 会话 ↔ Codex thread）集成
 
 ---
